@@ -2,7 +2,7 @@ CHANGES.txt
 MANIFEST.in
 README.txt
 development.ini
-production.ini
+production_clickfirme.ini
 setup.py
 clickfirme/__init__.py
 clickfirme/tests.py

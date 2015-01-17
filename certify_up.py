@@ -3,7 +3,7 @@ import urllib
 import os
 #import sys
 #sys.exit(0)
-PYTHON_PATH = "/home/matheus/pyramid_instances/python_virtualenv/bin/"
+PYTHON_PATH = "/home/matheus/pyramid_projects/python_virtualenv/bin/"
 try:
     status = urllib.urlopen("http://localhost:1207/").getcode()
     print "Everything OK."
